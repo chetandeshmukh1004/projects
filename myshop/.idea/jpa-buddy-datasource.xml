@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="0889a318-a3b0-4cbe-8f79-66142a84aa86" name="myshop" url="jdbc:h2:file:./src/main/resources/myshopdb" driverClass="org.h2.Driver" />
+    </data-sources>
+  </component>
+</project>
